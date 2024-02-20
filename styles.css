@@ -1,0 +1,13 @@
+/* styles.css */
+
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+canvas {
+    display: block;
+    margin: 0 auto; /* Center the canvas horizontally */
+    border: 2px solid #333; /* Add a border around the canvas */
+    margin-top: 20px; /* Add some space at the top */
+}
